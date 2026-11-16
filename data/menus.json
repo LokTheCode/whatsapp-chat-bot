@@ -1,0 +1,68 @@
+{
+  "attendance": {"title": "Attendance & Punch", "keywords": ["attendance", "punch", "punching", "checkin", "check-in", "clock"], "options": [
+    {"label": "How to punch in", "question": "How do I punch in?"},
+    {"label": "How to punch out", "question": "How do I punch out?"},
+    {"label": "Enable location", "question": "How do I enable location permission on my phone?"},
+    {"label": "Enable camera", "question": "How do I enable camera permission for punching?"},
+    {"label": "Missed punch / fix", "question": "I forgot to punch in or out. How do I fix it?"},
+    {"label": "Outside area error", "question": "What does You are outside the allowed area mean?"},
+    {"label": "Attendance history", "question": "Where can I see my attendance history?"},
+    {"label": "Late mark & grace", "question": "What is a late mark and when is it applied?"}]},
+  "leave": {"title": "Leave", "keywords": ["leave", "leaves", "holiday leave", "vacation"], "options": [
+    {"label": "Apply for leave", "question": "How do I apply for leave?"},
+    {"label": "My leave balance", "question": "What is my leave balance?"},
+    {"label": "Cancel a leave", "question": "How do I cancel a leave request?"},
+    {"label": "Half-day leave", "question": "How do I apply for a half-day leave?"},
+    {"label": "Comp-off", "question": "What is comp-off and how do I apply?"},
+    {"label": "Leave policy", "question": "Where can I read my company leave policy?"},
+    {"label": "Approve leave (manager)", "question": "How does a manager approve or reject leave?"}]},
+  "payroll": {"title": "Payroll & Salary", "keywords": ["payroll", "salary", "payslip", "pay", "tax", "tds", "pf", "bonus"], "options": [
+    {"label": "Download payslip", "question": "How do I view or download my payslip?"},
+    {"label": "Salary date", "question": "When will I get my salary?"},
+    {"label": "Salary deductions", "question": "What deductions are shown on my payslip?"},
+    {"label": "Tax declaration", "question": "How do I submit my tax declaration?"},
+    {"label": "Form 16", "question": "How do I download Form 16?"},
+    {"label": "Salary looks wrong", "question": "My salary amount looks wrong. What should I do?"},
+    {"label": "Change bank account", "question": "How do I update my bank account for salary?"}]},
+  "employees": {"title": "Employees (HR/Admin)", "keywords": ["employee", "employees", "staff", "onboarding", "offboarding"], "options": [
+    {"label": "Add an employee", "question": "How do I add a new employee?"},
+    {"label": "Bulk import", "question": "How do I add many employees at once (bulk import)?"},
+    {"label": "Edit employee", "question": "How do I edit an employee's details?"},
+    {"label": "Deactivate employee", "question": "How do I deactivate an employee?"},
+    {"label": "Change manager", "question": "How do I assign or change a reporting manager?"},
+    {"label": "Employee exit", "question": "How do I process an employee's resignation or exit?"},
+    {"label": "Upload documents", "question": "How do I upload employee documents like Aadhaar, PAN or offer letter?"}]},
+  "shifts": {"title": "Shifts & Roster", "keywords": ["shift", "shifts", "roster", "timing"], "options": [
+    {"label": "My shift timing", "question": "How do I see my shift timing?"},
+    {"label": "Request shift change", "question": "How do I request a shift change?"},
+    {"label": "Swap shift", "question": "How do I swap a shift with a colleague?"},
+    {"label": "Publish roster", "question": "How does a manager publish a roster?"}]},
+  "holidays": {"title": "Holidays", "keywords": ["holiday", "holidays"], "options": [
+    {"label": "Holiday list", "question": "Where can I see the holiday list?"},
+    {"label": "Optional holidays", "question": "What are optional holidays and how do I use them?"},
+    {"label": "Add a holiday (admin)", "question": "How does admin add a holiday?"}]},
+  "expenses": {"title": "Expenses", "keywords": ["expense", "expenses", "reimbursement", "claim", "claims"], "options": [
+    {"label": "Submit a claim", "question": "How do I submit an expense claim?"},
+    {"label": "Upload receipts", "question": "How do I upload receipts for an expense?"},
+    {"label": "Claim status", "question": "How do I check the status of my expense claim?"},
+    {"label": "Claim rejected", "question": "My expense claim was rejected. What can I do?"},
+    {"label": "Mileage claim", "question": "How do I claim mileage for travel?"}]},
+  "reports": {"title": "Reports", "keywords": ["report", "reports", "export"], "options": [
+    {"label": "Attendance report", "question": "How do I download the attendance report?"},
+    {"label": "Leave report", "question": "How do I get the leave report?"},
+    {"label": "Payroll report", "question": "How do I get the payroll report?"},
+    {"label": "Headcount report", "question": "Where can I see the headcount report?"},
+    {"label": "Schedule a report", "question": "Can I schedule a report to be emailed automatically?"}]},
+  "account": {"title": "Login & Profile", "keywords": ["login", "password", "otp", "profile", "account", "app"], "options": [
+    {"label": "Forgot password", "question": "I forgot my password. How do I reset it?"},
+    {"label": "OTP not received", "question": "I am not receiving the OTP. What should I do?"},
+    {"label": "Change mobile/email", "question": "How do I update my mobile number or email?"},
+    {"label": "Change profile photo", "question": "How do I change my profile photo?"},
+    {"label": "Switch company", "question": "How do I switch between my companies?"},
+    {"label": "App not opening", "question": "The app is crashing or not opening. What should I do?"}]},
+  "support": {"title": "Contact & Support", "keywords": ["support", "ticket", "contact", "complaint"], "options": [
+    {"label": "Contact HR", "question": "How do I contact HR?"},
+    {"label": "Raise a ticket", "question": "How do I raise a support ticket?"},
+    {"label": "Data privacy", "question": "How is my personal data protected?"},
+    {"label": "Announcements", "question": "How do I view company announcements and policies?"}]}
+}

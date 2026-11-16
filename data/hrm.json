@@ -1,0 +1,20 @@
+{
+  "employee": {"name": "Rahul Sharma", "mobile": "9876543210"},
+  "companies": [
+    {"id": "c1", "name": "Acme Technologies", "hr_contact": "hr@acmetech.example / 080-1111-2222",
+     "policy": {"punch_location_required": true, "punch_camera_required": true, "geofence_radius_m": 100, "work_hours": "9:30 AM - 6:30 PM", "grace_minutes": 15, "weekly_off": "Saturday and Sunday", "salary_date": "last working day of the month", "regularizations_per_month": 3},
+     "my_data": {"designation": "Software Engineer", "manager": "Priya Nair", "shift": "General (9:30 AM - 6:30 PM)", "leave_balance": {"Casual Leave": 6, "Sick Leave": 4, "Earned Leave": 12}, "last_payslip": "October 2026", "pending_requests": 1}},
+    {"id": "c2", "name": "BrightMart Retail", "hr_contact": "people@brightmart.example / 022-3333-4444",
+     "policy": {"punch_location_required": true, "punch_camera_required": false, "geofence_radius_m": 200, "work_hours": "10:00 AM - 7:00 PM (rotational)", "grace_minutes": 10, "weekly_off": "Rotational (1 day per week)", "salary_date": "5th of every month", "regularizations_per_month": 2},
+     "my_data": {"designation": "Store Supervisor", "manager": "Amit Verma", "shift": "Rotational - Morning", "leave_balance": {"Casual Leave": 3, "Sick Leave": 5, "Earned Leave": 8}, "last_payslip": "October 2026", "pending_requests": 0}},
+    {"id": "c3", "name": "Green Valley Logistics", "hr_contact": "hr@greenvalley.example / 011-5555-6666",
+     "policy": {"punch_location_required": true, "punch_camera_required": true, "geofence_radius_m": 500, "work_hours": "8:00 AM - 5:00 PM", "grace_minutes": 5, "weekly_off": "Sunday", "salary_date": "1st of every month", "regularizations_per_month": 4},
+     "my_data": {"designation": "Fleet Coordinator", "manager": "Suresh Kulkarni", "shift": "Day (8:00 AM - 5:00 PM)", "leave_balance": {"Casual Leave": 8, "Sick Leave": 6, "Earned Leave": 15}, "last_payslip": "October 2026", "pending_requests": 2}},
+    {"id": "c4", "name": "Sunrise Hospital", "hr_contact": "hrdesk@sunrisehospital.example / 044-7777-8888",
+     "policy": {"punch_location_required": true, "punch_camera_required": true, "geofence_radius_m": 150, "work_hours": "Shifts: Morning 7-3, Evening 3-11, Night 11-7", "grace_minutes": 10, "weekly_off": "Rotational", "salary_date": "7th of every month", "regularizations_per_month": 3},
+     "my_data": {"designation": "Staff Nurse", "manager": "Dr. Meera Iyer", "shift": "Rotational - Evening", "leave_balance": {"Casual Leave": 5, "Sick Leave": 7, "Earned Leave": 10}, "last_payslip": "October 2026", "pending_requests": 0}},
+    {"id": "c5", "name": "Orbit Consulting", "hr_contact": "hr@orbitconsulting.example / 020-9999-0000",
+     "policy": {"punch_location_required": false, "punch_camera_required": false, "geofence_radius_m": 0, "work_hours": "Flexible (8 hours/day, core hours 11 AM - 4 PM)", "grace_minutes": 0, "weekly_off": "Saturday and Sunday", "salary_date": "28th of every month", "regularizations_per_month": 5},
+     "my_data": {"designation": "Consultant", "manager": "Neha Kapoor", "shift": "Flexible", "leave_balance": {"Casual Leave": 10, "Sick Leave": 6, "Earned Leave": 18}, "last_payslip": "October 2026", "pending_requests": 0}}
+  ]
+}
